@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+.section {
+    font-size: 18px;
+    height: 155px;
+    margin: 14px;
+    padding: 10px;
+    width: 265px;
+}
+.yellow {
+    background-color: #f7b617;
+}
+.black {
+    background-color: #2B2B2B;
+    color: #fff;
+}
+.uppercase {
+    font-size: 22px;
+    text-transform: uppercase;
+}
